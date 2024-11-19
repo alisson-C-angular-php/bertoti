@@ -470,4 +470,31 @@ Detalhes
 
 ### Contribuições como scrum master
 
-Commo scrum master 
+Como Scrum Master, fui responsável por organizar o processo de desenvolvimento ágil, gerenciando as sprints e garantindo que a equipe seguisse as práticas ágeis de forma eficiente. Entre minhas responsabilidades, incluí:
+
+Planejamento e organização das sprints, assegurando que as entregas fossem realizadas dentro dos prazos estabelecidos.
+Documentação das tarefas no ClickUp, garantindo total visibilidade e acompanhamento do progresso da equipe.
+Elaboração do burndown chart das sprints, monitorando o progresso do trabalho e identificando quaisquer impedimentos ou desvios no plano de entrega.
+
+**Hard Skills**
+
+| Tecnologia/Metodologia  | Classificação |
+|-------------------------|---------------|
+| **SQL**                 | ★★★★★★☆☆☆☆☆  |
+| **MySQL**               | ★★★★☆☆☆☆☆☆  |
+| **HTML/CSS**            | ★★★★★★★☆☆☆  |
+| **Vue**                 | ★★★★★★★☆☆☆  |
+| **REST**                | ★★★★★★★☆☆☆  |
+| **Scrum**               | ★★★★★★★☆☆☆  |
+| **UX/UI Design**        | ★★★★★☆☆☆☆☆  |
+
+**Soft Skills**
+
+| Habilidade             | Classificação |
+|------------------------|---------------|
+| **Comunicação**        | ★★★★★★☆☆☆☆☆   |
+| **Trabalho em Equipe** | ★★★★☆☆☆☆☆☆   |
+| **Resolução de Problemas** | ★★★★★★★☆☆☆   |
+| **Responsabilidade**   | ★★★★★★☆☆☆☆☆   |
+
+
