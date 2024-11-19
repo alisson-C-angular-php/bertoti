@@ -115,3 +115,25 @@ router.include_router(autenticacao_controller.router)
 router.include_router(usuario_controler.router)
 
 ```
+
+**Hard Skills**
+
+| Tecnologia/Metodologia | Classificação |
+|------------------------|---------------|
+| **Python**             | ★★★★★★★★★★   |
+| **HTML/CSS**           | ★☆☆☆☆☆☆☆☆☆☆   |
+| **Javascript**         | ★☆☆☆☆☆☆☆☆☆☆   |
+| **FastAPI**            | ★★★★★★★★★★   |
+| **Scrum**              | ★★★★★★★★★★   |
+
+
+**Soft Skills**
+
+| Habilidade             | Classificação |
+|------------------------|---------------|
+| **Comunicação**        | ★★★★★★★★★★   |
+| **Trabalho em Equipe** | ★★★★★★★★★☆   |
+| **Resolução de Problemas** | ★★★★★★★★★★   |
+| **Responsabilidade**   | ★★★★★★★★★★   |
+
+
