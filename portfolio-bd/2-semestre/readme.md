@@ -199,21 +199,21 @@ Como pode ser observado no código acima, a essência da funcionalidade de lista
  
 
 
-# Habilidades Aplicadas no Projeto
+**Hard Skills**
 
-| **Categoria**    | **Habilidade**                                     | **Descrição da Aplicação**                                                                          |
-|-------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Hard Skills**   | **Java**                                          | Desenvolvimento da lógica de negócio, manipulação de dados e criação de eventos no sistema.         |
-|                   | **CSS**                                           | Estilização das telas utilizando SceneBuilder para criar layouts responsivos e atrativos.           |
-|                   | **MySQL**                                         | Persistência e consulta de dados, garantindo integridade e desempenho do sistema.                   |
-|                   | **FXML**                                          | Implementação de rotas e integração de telas no SceneBuilder para navegação fluida no sistema.      |
-|                   | **Controle de Acesso**                            | Regras de autenticação e autorização para diferentes perfis de usuário (administradores, gestores). |
-|                   | **Relatórios Gráficos**                           | Criação de gráficos em tempo real para acompanhamento de horas trabalhadas.                         |
-|                   | **Gestão de Estados**                             | Controle e validação de fluxos, como aprovação/reprovação de horas extras.                          |
-|                   | **Boas Práticas de Programação**                  | Modularização do código e implementação de padrões de projeto para maior manutenibilidade.          |
-| **Soft Skills**   | **Resolução de Problemas**                        | Análise do problema apresentado pela empresa e criação de uma solução personalizada e funcional.    |
-|                   | **Trabalho em Equipe**                            | Colaboração com outros membros da equipe para integração e validação das funcionalidades.           |
-|                   | **Comunicação**                                   | Documentação do projeto e apresentação clara das funcionalidades e progresso à equipe parceira.     |
-|                   | **Gestão de Tempo**                               | Entrega do projeto dentro do prazo definido, com qualidade e funcionalidades completas.             |
-|                   | **Atenção aos Detalhes**                          | Garantia de que as funcionalidades atendem aos requisitos estabelecidos pela empresa parceira.      |
-    
+| Tecnologia/Metodologia   | Classificação |
+|--------------------------|---------------|
+| **SQL**                  | ★★★★★★★★☆☆☆  |
+| **MySQL**                | ★★★★★★★☆☆☆  |
+| **SceneBuilder/HTML/CSS**| ★★★★★★★★☆☆☆  |
+| **Java**                 | ★★★★★★★☆☆☆  |
+| **Scrum**                | ★★★★☆☆☆☆☆☆  |
+
+**Soft Skills**
+
+| Habilidade             | Classificação |
+|------------------------|---------------|
+| **Comunicação**        | ★★★★★★☆☆☆☆☆   |
+| **Trabalho em Equipe** | ★★★★★★★☆☆☆   |
+| **Resolução de Problemas** | ★★★★★★★★★☆   |
+| **Responsabilidade**   | ★★★★★★★☆☆☆   |
