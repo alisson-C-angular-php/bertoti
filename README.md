@@ -33,10 +33,10 @@ Além das tecnologias mencionadas, possuo conhecimentos em outras áreas relacio
 - [Link para o README do Projeto 1º Semestre](#)
 
 ### 2023 - Primeiro Semestre
-- [Link para o README do Projeto 1º Semestre](#)
-
-### 2023 - Segundo Semestre
 - [Link para o README do Projeto 2º Semestre](#)
 
+### 2023 - Segundo Semestre
+- [Link para o README do Projeto 3º Semestre](#)
+
 ### 2024 - Primeiro Semestre
-- [Link para o README do Projeto 1º Semestre](#)
+- [Link para o README do Projeto 4º Semestre](#)
