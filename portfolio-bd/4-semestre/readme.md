@@ -164,7 +164,24 @@ public class AcompanharProgressoCommand {
 ---
 
 ## Hard Skills
-[Clique para ver a lista de hard skills]
+
+| Tecnologia/Metodologia   | Classificação |
+|--------------------------|---------------|
+| **HTML/CSS**             | ★☆☆☆☆☆☆☆☆☆☆  |
+| **Vue**                  | ★★★☆☆☆☆☆☆☆☆  |
+| **Typescript**           | ★★★★★★★★★★  |
+| **Scrum**                | ★★★★★★★★★★  |
+| **UX/UI Design**         | ★★★★★★★★★★  |
+
+
+
 
 ## Soft Skills
-[Clique para ver a lista de soft skills]
+
+
+| Habilidade             | Classificação |
+|------------------------|---------------|
+| **Comunicação**        | ★★★★★★★☆☆☆☆  |
+| **Trabalho em Equipe** | ★★★★★☆☆☆☆☆  |
+| **Resolução de Problemas** | ★★★★★★★☆☆☆  |
+| **Responsabilidade**   | ★★★★★★★☆☆☆  |
