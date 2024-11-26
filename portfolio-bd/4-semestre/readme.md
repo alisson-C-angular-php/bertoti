@@ -185,3 +185,26 @@ public class AcompanharProgressoCommand {
 | **Trabalho em Equipe** | ★★★★★☆☆☆☆☆  |
 | **Resolução de Problemas** | ★★★★★★★☆☆☆  |
 | **Responsabilidade**   | ★★★★★★★☆☆☆  |
+
+
+
+### Justificativa para Hard Skills
+
+| Tecnologia/Metodologia   | Justificativa                                                                                               |
+|--------------------------|-----------------------------------------------------------------------------------------------------------|
+| **HTML/CSS**             | Conhecimento básico, suficiente para criar estruturas simples e aplicar estilizações iniciais em projetos web. |
+| **Vue**                  | Familiaridade prática com a framework, com capacidade de construir componentes básicos e integrar funcionalidades. |
+| **TypeScript**           | Domínio avançado, com habilidade para desenvolver aplicações complexas e aproveitar recursos de tipagem estática. |
+| **Scrum**                | Experiência consolidada na aplicação de Scrum para gerenciar projetos, garantir a produtividade e promover a colaboração. |
+| **UX/UI Design**         | Forte habilidade em criar interfaces amigáveis e acessíveis, com foco na experiência do usuário e design funcional. |
+
+---
+
+### Justificativa para Soft Skills
+
+| Habilidade             | Justificativa                                                                                              |
+|------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Comunicação**        | Boa capacidade de expressar ideias e informações, com foco na clareza e adequação ao público-alvo.         |
+| **Trabalho em Equipe** | Experiência em colaborar com grupos, com necessidade de desenvolver maior flexibilidade para lidar com diferentes dinâmicas de equipe. |
+| **Resolução de Problemas** | Habilidade consistente para analisar situações e propor soluções criativas e eficazes para desafios técnicos. |
+| **Responsabilidade**   | Forte senso de compromisso com prazos e objetivos, garantindo a entrega de resultados com qualidade.        | 
