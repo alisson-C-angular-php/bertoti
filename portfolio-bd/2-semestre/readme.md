@@ -217,3 +217,28 @@ Como pode ser observado no código acima, a essência da funcionalidade de lista
 | **Trabalho em Equipe** | ★★★★★★★☆☆☆   |
 | **Resolução de Problemas** | ★★★★★★★★★☆   |
 | **Responsabilidade**   | ★★★★★★★☆☆☆   |
+
+
+
+
+### Justificativa para Hard Skills
+
+| Tecnologia/Metodologia     | Justificativa                                                                                               |
+|----------------------------|-----------------------------------------------------------------------------------------------------------|
+| **SQL**                    | Conhecimento sólido na manipulação de bases de dados, criação de consultas complexas e otimização de queries. |
+| **MySQL**                  | Experiência prática na utilização deste SGBD, incluindo configuração, manipulação de tabelas e consultas.    |
+| **SceneBuilder/HTML/CSS**  | Boa proficiência em criar interfaces visuais utilizando SceneBuilder, com integração a HTML e CSS para estilização. |
+| **Java**                   | Experiência intermediária em desenvolvimento de aplicativos, com foco em projetos orientados a objetos.     |
+| **Scrum**                  | Familiaridade básica com a metodologia, participando de sprints e reuniões de planejamento.                 |
+
+---
+
+### Justificativa para Soft Skills
+
+| Habilidade             | Justificativa                                                                                              |
+|------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Comunicação**        | Habilidade moderada para expressar ideias, com espaço para melhorar a clareza e eficiência na transmissão. |
+| **Trabalho em Equipe** | Boa capacidade de colaborar com times, contribuindo positivamente, mas com necessidade de maior prática em conflitos. |
+| **Resolução de Problemas** | Competência notável para identificar e resolver desafios técnicos e lógicos de maneira eficaz.              |
+| **Responsabilidade**   | Compromisso consistente com prazos e entrega de qualidade, mas com possibilidade de reforçar a autonomia em tarefas complexas. | 
+
