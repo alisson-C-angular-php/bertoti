@@ -498,3 +498,28 @@ Elaboração do burndown chart das sprints, monitorando o progresso do trabalho 
 | **Responsabilidade**   | ★★★★★★☆☆☆☆☆   |
 
 
+
+
+
+### Justificativa para Hard Skills
+
+| Tecnologia/Metodologia | Justificativa                                                                                               |
+|-------------------------|-----------------------------------------------------------------------------------------------------------|
+| **SQL**                | Conhecimento intermediário, com habilidade para criar consultas, gerenciar tabelas e manipular dados de maneira eficaz. |
+| **MySQL**              | Familiaridade básica no uso desse banco de dados, com experiência em tarefas simples de administração e consultas. |
+| **HTML/CSS**           | Boa capacidade de criar layouts estruturados e estilizações consistentes para projetos web.                |
+| **Vue**                | Conhecimento intermediário no uso dessa framework, com habilidade para construir componentes e gerenciar estados. |
+| **REST**               | Experiência prática na implementação de APIs RESTful, com entendimento sólido de padrões e boas práticas.  |
+| **Scrum**              | Aplicação regular dos princípios de Scrum para organização e entrega de projetos, com entendimento de papéis e sprints. |
+| **UX/UI Design**       | Habilidade básica em criar interfaces amigáveis e acessíveis, com atenção ao feedback dos usuários.         |
+
+---
+
+### Justificativa para Soft Skills
+
+| Habilidade             | Justificativa                                                                                              |
+|------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Comunicação**        | Habilidade moderada para transmitir informações e ideias, com potencial para maior clareza e empatia.      |
+| **Trabalho em Equipe** | Participação ativa em projetos colaborativos, com necessidade de desenvolver melhor a gestão de conflitos.  |
+| **Resolução de Problemas** | Boa capacidade de analisar e solucionar desafios técnicos, buscando soluções criativas e práticas.           |
+| **Responsabilidade**   | Consistência no cumprimento de prazos e entrega de tarefas, com espaço para aprimorar a autonomia e proatividade. | 
