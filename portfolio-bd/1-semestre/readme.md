@@ -137,3 +137,28 @@ router.include_router(usuario_controler.router)
 | **Responsabilidade**   | ★★★★★★★★★★   |
 
 
+
+
+
+### Justificativa para Hard Skills
+
+| Tecnologia/Metodologia | Justificativa                                                                                          |
+|------------------------|-------------------------------------------------------------------------------------------------------|
+| **Python**             | Domínio avançado em Python, com experiência em automação, desenvolvimento de APIs e análise de dados. |
+| **HTML/CSS**           | Conhecimento básico, com foco em estruturas simples e estilização básica de páginas web.              |
+| **JavaScript**         | Familiaridade inicial, suficiente para implementar funcionalidades básicas em páginas web.            |
+| **FastAPI**            | Extensa experiência no uso dessa framework para criação de APIs escaláveis e performáticas.           |
+| **Scrum**              | Experiência prática na aplicação de Scrum para gerenciar projetos e manter times alinhados.           |
+
+---
+
+### Justificativa para Soft Skills
+
+| Habilidade             | Justificativa                                                                                          |
+|------------------------|-------------------------------------------------------------------------------------------------------|
+| **Comunicação**        | Habilidade excelente para transmitir ideias de forma clara, tanto oralmente quanto por escrito.       |
+| **Trabalho em Equipe** | Experiência em colaborar com times diversos, buscando soluções conjuntas e mantendo um bom relacionamento. |
+| **Resolução de Problemas** | Capacidade comprovada de analisar situações complexas e desenvolver soluções eficazes e criativas. |
+| **Responsabilidade**   | Forte senso de compromisso, com entrega consistente de resultados e cumprimento de prazos.             |
+
+
