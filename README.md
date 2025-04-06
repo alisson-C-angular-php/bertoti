@@ -30,13 +30,24 @@ Além das tecnologias mencionadas, possuo conhecimentos em outras áreas relacio
 ## Meus Projetos
 
 ### 2022 - Primeiro Semestre
-- [Link para o README do Projeto 1º Semestre](#)
+- [Link para o README do Projeto 1º Semestre](#https://github.com/tn-api1sem/api)
 
 ### 2023 - Primeiro Semestre
-- [Link para o README do Projeto 2º Semestre](#)
+- [Link para o README do Projeto 2º Semestre](#https://github.com/api-2-sem/api)
 
 ### 2023 - Segundo Semestre
-- [Link para o README do Projeto 3º Semestre](#)
+- [Link para o README do Projeto 3º Semestre](#https://github.com/api-3-sem/api)
 
 ### 2024 - Primeiro Semestre
-- [Link para o README do Projeto 4º Semestre](#)
+- [Link para o README do Projeto 4º Semestre](#https://github.com/api-4-sem/api)
+
+### 2024 - Segundo Semestre 
+- [Link para o README do Projeto 5º Semestre](#https://github.com/api-5-sem/api-documentation)
+
+
+
+
+
+
+
+##
