@@ -88,6 +88,11 @@ public class Login{
 }
 ```
 
+A classe Login possui dois atributos privados: email e password, que armazenam respectivamente o e-mail e a senha do usuário. Ao instanciar a classe através do construtor Login(String email, String password), esses dois atributos são inicializados com os valores fornecidos.
+
+O método auth(String email, String password) serve para verificar se os dados fornecidos coincidem com os armazenados. Ele cria um novo objeto Login com os parâmetros recebidos (embora essa instância não seja realmente usada) e retorna true apenas se o e-mail e a senha passados como argumento forem exatamente iguais aos armazenados no objeto original (this.email e this.password). Caso contrário, retorna false
+
+
 Fui encarregado de criar a tela de login no SceneBuilder, utilizando para isso CSS e algumas imagens padrões da empresa parceira. Nessa mesma tela foi implementado regras de acesso ao sistema.
 
 Detalhes
@@ -126,7 +131,7 @@ public class MensagemRetorno {
 }
 ```
 
-
+A classe MensagemRetorno tem como principal objetivo centralizar e padronizar a exibição de mensagens para o usuário, especialmente em aplicações com interface gráfica desenvolvidas em JavaFX. Por meio de métodos estáticos, ela permite mostrar mensagens de sucesso ou erro utilizando caixas de diálogo (Alert), o que contribui para uma melhor experiência do usuário
 
 
 Estabeleciomento de rota para tela de cadastro de usuario 
@@ -157,13 +162,11 @@ Foi desenvolvido um dashboard
 
         ObservableList<PieChart.Data> pieChartData = FXCollections.observableArrayList();
 
-        // Adicione os dados da lista aprovada ao gráfico de pizza, adicionando a legenda de "Aprovado" e a quantidade aprovada construção para extrair o tipo de usuario talvez necessario?
         int qtdAprovada = extratoHoraDAO.qtdHoraAprovada();
         if (qtdAprovada > 0) {
             pieChartData.add(new PieChart.Data("Aprovado", qtdAprovada));
         }
 
-        // Adicione os dados da lista reprovada ao gráfico de pizza, adicionando a legenda de "Reprovado" e a quantidade reprovada
         int qtdReprovada = extratoHoraDAO.qtdHoraReprovada();
         if (qtdReprovada > 0) {
             pieChartData.add(new PieChart.Data("Reprovado", qtdReprovada));
@@ -172,6 +175,8 @@ Foi desenvolvido um dashboard
         dashboard.setData(pieChartData);
     }
 ```
+
+Se houver algum aprovado ele entra na seção de aprovado caso nao entra no reporvado e 
 
 Detalhes
 
