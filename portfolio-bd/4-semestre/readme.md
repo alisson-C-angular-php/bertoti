@@ -140,22 +140,6 @@ public class Empresa {
 
 
 
-Na arquitetura hexagonal foi implementado o endpoint  para post assim acompanhar progresso
-
-
-´´´
-package br.gov.sp.fatec.apipixel.core.domain.command;
-
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-
-@Getter
-@AllArgsConstructor
-public class AcompanharProgressoCommand {
-
-    private Long colaboradorId;
-}
-´´´
 
 
 
@@ -192,8 +176,8 @@ public class AcompanharProgressoCommand {
 
 | Tecnologia/Metodologia   | Justificativa                                                                                               |
 |--------------------------|-----------------------------------------------------------------------------------------------------------|
-| **HTML/CSS**             | Conhecimento básico, suficiente para criar estruturas simples e aplicar estilizações iniciais em projetos web. |
-| **Vue**                  | Familiaridade prática com a framework, com capacidade de construir componentes básicos e integrar funcionalidades. |
+| **HTML/CSS**             | Conhecimento básico, suficiente para criar estruturas simples e aplicar estilizações iniciais em projetos web. Construindo estruturas que atendam as necissade de funcionalidades requeridas. |
+| **Vue**                  | Familiaridade prática com a framework, com capacidade de construir componentes básicos e integrar funcionalidades entre frontend e backend. Construindo assim sistemas robusto e consistentes. |
 | **TypeScript**           | Domínio avançado, com habilidade para desenvolver aplicações complexas e aproveitar recursos de tipagem estática. |
 | **Scrum**                | Experiência consolidada na aplicação de Scrum para gerenciar projetos, garantir a produtividade e promover a colaboração. |
 | **UX/UI Design**         | Forte habilidade em criar interfaces amigáveis e acessíveis, com foco na experiência do usuário e design funcional. |
@@ -204,7 +188,7 @@ public class AcompanharProgressoCommand {
 
 | Habilidade             | Justificativa                                                                                              |
 |------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Boa capacidade de expressar ideias e informações, com foco na clareza e adequação ao público-alvo.         |
-| **Trabalho em Equipe** | Experiência em colaborar com grupos, com necessidade de desenvolver maior flexibilidade para lidar com diferentes dinâmicas de equipe. |
-| **Resolução de Problemas** | Habilidade consistente para analisar situações e propor soluções criativas e eficazes para desafios técnicos. |
-| **Responsabilidade**   | Forte senso de compromisso com prazos e objetivos, garantindo a entrega de resultados com qualidade.        | 
+| **Comunicação**        | Boa capacidade de expressar ideias e informações, com foco na clareza e adequação ao público-alvo. Transmiti todas as demandas que foi acordada com o cliente.          |
+| **Trabalho em Equipe** | Experiência em colaborar com grupos, com necessidade de desenvolver maior flexibilidade para lidar com diferentes dinâmicas de equipe. Na criação do backlog depois de acertado com o cliente as necessidades do mesmo, trablhei com a equipe transmitido e comunicando as tarefas necessarias para atingirmos essas necessidades. |
+| **Resolução de Problemas** | Demonstro habilidade consistente em analisar cenários e propor soluções criativas e eficazes para desafios técnicos. Em situações como a falta de comunicação por parte do cliente, assumo uma postura proativa e estratégica, contribuindo diretamente para o avanço do projeto e garantindo a continuidade das entregas |
+| **Responsabilidade**   | Forte senso de compromisso com prazos e objetivos, garantindo a entrega de resultados com qualidade. Utilizei meu senso de compromisso com os objetivos do projeto para garantir que todos os resultados fossem entregues com alta qualidade        | 
