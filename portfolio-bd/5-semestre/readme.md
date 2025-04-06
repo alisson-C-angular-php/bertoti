@@ -1059,7 +1059,7 @@ Na primeira etapa como ja comentado,é chamada de build, o workflow instala as d
 
 | Habilidade             | Justificativa                                                                                              |
 |------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Boa capacidade de expressar ideias e informações, com foco na clareza e adequação ao público-alvo. Recendo demandas e processando essas informação via canais de comiunicação.         |
+| **Comunicação**        | Boa capacidade de expressar ideias e informações, com foco na clareza e adequação ao público-alvo. Recendo demandas e processando essas informação via canais de comunicação.         |
 | **Trabalho em Equipe** | Experiência em colaborar com grupos, com necessidade de desenvolver maior flexibilidade para lidar com diferentes dinâmicas de equipe. Podendo lidar com os diferentes requisitos e desafios surgidos durante o projeto e organizando nosso processo de desenvolvimento |
-| **Resolução de Problemas** | Habilidade consistente para analisar situações e propor soluções criativas e eficazes para desafios técnicos. Resolvendo nossas demandas de forma concisa e eficiente |
+| **Resolução de Problemas** | Habilidade consistente para analisar situações e propor soluções criativas e eficazes para desafios técnicos. Resolvendo nossas demandas de forma concisa e eficiente. Com foco na experiencia do usuario. |
 | **Responsabilidade**   | Forte senso de compromisso com prazos e objetivos, garantindo a entrega de resultados com qualidade. Sendo comprometido com a entrega e o foco no resultado.       | 
