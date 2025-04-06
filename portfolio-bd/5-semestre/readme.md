@@ -842,6 +842,129 @@ gerarRelatorio() {
 que basicamente recebe os dados da api ja convertendo no formato excel e realiza o dowload do mesmo
 
 
+### 🔹 Como DEVOPS
+
+Autei lidando na construção da nossa esteira de automação, o nosso continuos integration. Que é composto por 3 frentes o build, teste, deploy e notificação do sucesso desse processo. Nesse ci foi integrado como nosso processo de desenvolvimento que consistia em adotar um padrao de branch, e validando cada integração de novas funcionalidades até as que as mesma chegassem no ramo principal. Após essa validação que é execultada com teste unitarios, teste de carga e versionamento do nosso banco de dados. Caso nenhuma validação falhe e como mencionado as integrações cheguem ao ramo principal é feito o  build e subido esse conteudo para um container do acr da azure onde realizamos nosso deploy
+
+
+Action para nosso deploy
+
+```
+name: CI/CD Pipeline
+
+on:
+  push:
+  pull_request:
+    branches:
+      - main
+      - develop
+  schedule:
+    - cron: '0 18 * * *'
+
+jobs:
+  
+  build:
+    name: Build and Test
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout do código
+      - uses: actions/checkout@v3
+
+      # Configuração do Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+
+      # Instalar dependências
+      - name: Install dependencies
+        run: npm ci
+        working-directory: ./api
+
+      # Instalar Angular CLI
+      - name: Install Angular CLI
+        run: npm install -g @angular/cli@13
+        working-directory: ./api
+
+      # Executar testes unitários (somente na branch develop)
+      - name: Run unit tests
+        if: github.ref == 'refs/heads/develop'
+        run: ng test --watch=false --browsers=ChromeHeadless
+        working-directory: ./api
+
+  build-and-push-acr:
+    name: Build and Push to Azure Container Registry
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' && github.base_ref == 'main' # Apenas PR para main
+
+    steps:
+    - uses: actions/checkout@master
+    
+    - uses: Azure/docker-login@v1
+      with:
+        login-server: angularapp.azurecr.io
+        username: ${{ secrets.ACR_USERNAME }}
+        password: ${{ secrets.ACR_PASSWORD }}
+    
+    - run: |
+        docker build . -t angularapp.azurecr.io/frontend:${{ github.sha }}
+        docker push angularapp.azurecr.io/frontend:${{ github.sha }}
+      
+    # Set the target AKS cluster.
+    - uses: Azure/aks-set-context@v1
+      with:
+        creds: '${{ secrets.AZURE_CREDENTIALS }}'
+        cluster-name: pixelCluster
+        resource-group: gr-pixel-containers
+      
+    - name: Update deployment image
+      run: |
+        sed -i 's|<IMAGE_PLACEHOLDER>|angularapp.azurecr.io/frontend:${{ github.sha }}|' k8s/deployment.yaml
+    - uses: Azure/k8s-deploy@v1
+      with:
+        manifests: |
+          k8s/deployment.yaml
+          k8s/service.yaml
+        images: |
+          angularapp.azurecr.io/frontend:${{ github.sha }}
+        imagepullsecrets: |
+          k8s-secret-front
+        namespace: ingress-basic
+
+  notifyTelegramSuccess:
+    runs-on: ubuntu-latest
+    needs: [build-and-push-acr, build]
+    if: success()
+    steps:
+      - name: Send Telegram Notification (Success)
+        uses: appleboy/telegram-action@v1.0.0
+        with:
+          to: -4512389085
+          token: 7965658930:AAH9K3d8Y2HD73FuMZ7Ys9RSjYfmfErd2zw
+          message: |
+            ✅ CI/CD Pipeline Status:
+            - Evento: ${{ github.event_name }}
+            - Branch: ${{ github.ref_name }}
+            - Status: Concluído com sucesso!
+
+  notifyTelegramFailure:
+    runs-on: ubuntu-latest
+    needs: [build-and-push-acr, build]
+    if: failure()
+    steps:
+      - name: Send Telegram Notification (Failure)
+        uses: appleboy/telegram-action@v1.0.0
+        with:
+          to: -4512389085
+          token: 7965658930:AAH9K3d8Y2HD73FuMZ7Ys9RSjYfmfErd2zw
+          message: |
+            ❌ CI/CD Pipeline Failed:
+            - Evento: ${{ github.event_name }}
+            - Branch: ${{ github.ref_name }}
+            - Status: Falha no pipeline. Verifique os logs para mais detalhes!
+```
+
 
 
 
