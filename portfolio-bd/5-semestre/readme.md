@@ -129,6 +129,11 @@ A função importDadosProvisionados(event: any) é responsável por realizar a i
 
 Depois disso, são definidos os cabeçalhos da requisição HTTP, incluindo um cabeçalho de autorização com um token (this.tokenAuth) e o tipo de codificação como multipart/form-data, que é o apropriado para envio de arquivos. O ultimo passo da função  é  fazer uma requisição POST para a URL da nossa api na rota /api/importacao, enviando o FormData com o arquivo e os cabeçalhos configurados. A resposta da requisição é tratada com subscribe: se o envio for bem-sucedido, uma mensagem de sucesso é exibida no console e o carregamento é encerrado; se ocorrer algum erro, uma mensagem de erro é exibida e o carregamento também é encerrado. Caso nenhum arquivo seja selecionado, a função apenas exibe uma mensagem informando que nenhum arquivo foi escolhido.
 
+Detalhes
+
+![image](https://github.com/user-attachments/assets/8089e108-87f6-4492-a72d-b20e7412a223)
+
+
 
 4. **Definição de um load**: 
    Definição de um load para que indique o usuario que sua requisição esteja sendo processada.
@@ -169,6 +174,11 @@ Depois disso, são definidos os cabeçalhos da requisição HTTP, incluindo um c
   }
 }
 ```
+
+Detalhes
+
+![image](https://github.com/user-attachments/assets/c00ce3f9-41fe-4343-ac26-fcbe5688f088)
+
 
 5. **Testes unitario realizado na função**
 
@@ -369,6 +379,11 @@ criação da lógica de como meu componente deve se comporta ao mudar um item no
 ```
 
 A função `ngOnInit()` inicializa o formulário e define assinaturas para reagir às mudanças nos campos do formulário, atualizando campos relacionados conforme a seleção do usuário. A função `createForm()` cria a estrutura do formulário reativo com grupos e arrays de controles para captar os dados necessários. A função `getFatos()` faz uma requisição HTTP autenticada para buscar os dados de fatos no backend e armazená-los para uso posterior. Já a função `onFatoChange()` é acionada quando o fato muda, buscando as dimensões correspondentes via HTTP e atualizando os dados disponíveis no formulário.
+
+Detalhes
+
+![image](https://github.com/user-attachments/assets/7d195df6-ff96-4cf3-9dfd-23a33e2da7c4)
+
 
 
 2. Processamento dos dados no dashboard com base no meu conteudo que foi filtrado e gravado no meu session storage meu componente dashboard recupera seus dados ao ser inicializado no session storage, como pode se ver na função abaixo
@@ -812,6 +827,11 @@ e a logica do meu componete de login que sera capturar os dados digitados no meu
   }
 ```
 
+Detalhes
+
+![image](https://github.com/user-attachments/assets/9c89b811-99d6-44f4-a395-e2caddb1de2f)
+
+
 #### Tela para gerar relatorios
 Desenvolvido uma funcionalidade na tela de gerar relatorios, que permite o usuario escolher entre o tipo de relatorio se deseja pdf ou excel:
 
@@ -850,6 +870,12 @@ gerarRelatorio() {
 ```
 
 que basicamente recebe os dados da api ja convertendo no formato excel e realiza o dowload do mesmo
+
+
+Detalhes
+
+![image](https://github.com/user-attachments/assets/df88863a-317a-4ca4-b197-cfc6ff398b32)
+
 
 
 ### 🔹 Como DEVOPS
@@ -977,7 +1003,7 @@ jobs:
 
 
 
-
+Na primeira etapa como ja comentado,é chamada de build, o workflow instala as dependências do projeto localizado no diretório ./api, configura o ambiente Node.js e instala o Angular CLI. Caso a branch seja develop, ele também executa testes unitários com o comando ng test, garantindo que o código esteja funcionando corretamente. Em seguida, na etapa build-and-push-acr, que roda apenas quando há um pull request direcionado à branch main, o código é empacotado em uma imagem Docker e enviado ao Azure Container Registry (ACR). Após isso, o pipeline conecta-se ao cluster Kubernetes no Azure (AKS) e atualiza a aplicação com a nova imagem, utilizando os arquivos de manifesto deployment.yaml e service.yam
 
 
    
