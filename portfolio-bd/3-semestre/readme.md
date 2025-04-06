@@ -47,9 +47,8 @@ O sistema desenvolvido atendeu às necessidades específicas dos diferentes perf
 
 ---
 
-## GitHub
+## GitHub do projeto
 
-Confira o código-fonte e mais detalhes no repositório oficial:  
 - [Repositório no GitHub](https://github.com/api-3sem-pixel-api/api)
 
 ---
