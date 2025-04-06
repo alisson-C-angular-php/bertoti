@@ -368,6 +368,9 @@ criação da lógica de como meu componente deve se comporta ao mudar um item no
 }
 ```
 
+A função `ngOnInit()` inicializa o formulário e define assinaturas para reagir às mudanças nos campos do formulário, atualizando campos relacionados conforme a seleção do usuário. A função `createForm()` cria a estrutura do formulário reativo com grupos e arrays de controles para captar os dados necessários. A função `getFatos()` faz uma requisição HTTP autenticada para buscar os dados de fatos no backend e armazená-los para uso posterior. Já a função `onFatoChange()` é acionada quando o fato muda, buscando as dimensões correspondentes via HTTP e atualizando os dados disponíveis no formulário.
+
+
 2. Processamento dos dados no dashboard com base no meu conteudo que foi filtrado e gravado no meu session storage meu componente dashboard recupera seus dados ao ser inicializado no session storage, como pode se ver na função abaixo
 
 
