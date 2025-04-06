@@ -67,6 +67,10 @@ Desenvolvi uma função dentro de um componente que é reponsavel por proecessar
 
 ```
 
+Em especifico esse componente visual em Angular utiliza uma div com classes do Bootstrap para alinhar o conteúdo à direita (ms-auto) e centralizar verticalmente os elementos com d-flex e align-items-center. Dentro dessa div, tambem há um botão estilizado com btn btn-light e bordas arredondadas (border-radius: 5%), contendo um ícone da biblioteca Now UI Icons e o texto "Importar". Quando o botão é clicado, ele executa a função triggerFileInput(), que ira  acionar a abertura de um campo de upload de arquivo. Esse campo de upload está logo abaixo, mas está oculto com style="display: none;". É um input do tipo file com a diretiva Angular #fileInput, permitindo que ele seja referenciado no código TypeScrip
+
+
+
 2. **Captura do evento click e envio do arquivo**
 
    Usando uma diretiva que é responsavel por exibir ele primeiro na pagina e é atualizado seu estado quando sofre uma consulta, para isso foi declarado o viewchild
@@ -119,8 +123,11 @@ e uma função para capturar esse evento
       console.log("Nenhum arquivo selecionado.");
     }
   }
+```
 
- ```
+A função importDadosProvisionados(event: any) é responsável por realizar a importação de um arquivo Excel enviado pelo usuário através de um campo de upload. Quando é selecionado um arquivo, o evento é capturado e o primeiro arquivo da lista é extraído. Em seguida, é criado um objeto FormData, que é usado para enviar dados de formulário contendo arquivos. O arquivo selecionado é adicionado ao FormData com a chave 'file'.
+
+Depois disso, são definidos os cabeçalhos da requisição HTTP, incluindo um cabeçalho de autorização com um token (this.tokenAuth) e o tipo de codificação como multipart/form-data, que é o apropriado para envio de arquivos. O ultimo passo da função  é  fazer uma requisição POST para a URL da nossa api na rota /api/importacao, enviando o FormData com o arquivo e os cabeçalhos configurados. A resposta da requisição é tratada com subscribe: se o envio for bem-sucedido, uma mensagem de sucesso é exibida no console e o carregamento é encerrado; se ocorrer algum erro, uma mensagem de erro é exibida e o carregamento também é encerrado. Caso nenhum arquivo seja selecionado, a função apenas exibe uma mensagem informando que nenhum arquivo foi escolhido.
 
 
 4. **Definição de um load**: 
@@ -182,7 +189,7 @@ e uma função para capturar esse evento
     expect(component.isLoading).toBeFalse();
   });
  ```
-
+Basicamente a função spyOn é o principal responsavel pelo meu teste nele eu consigo monitorar métodos durante o teste, que pode ser usado para verificar chamadas, interceptar execuções ou simular retornos.
 
 
 #### Processamento de dados com filtro para os mesmo que reflitam diretamente os dashboard
