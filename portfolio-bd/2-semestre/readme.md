@@ -225,7 +225,7 @@ Como pode ser observado no código acima, a essência da funcionalidade de lista
 
 | Tecnologia/Metodologia     | Justificativa                                                                                               |
 |----------------------------|-----------------------------------------------------------------------------------------------------------|
-| **SQL**                    | Conhecimento sólido na manipulação de bases de dados, criação de consultas complexas e otimização de queries. |
+| **SQL**                    | Conhecimento sólido na manipulação de bases de dados, criação de consultas complexas e otimização de queries. Conhecimento esse aplicado na extração de informações para indicadores do processo. |
 | **MySQL**                  | Experiência prática na utilização deste SGBD, incluindo configuração, manipulação de tabelas e consultas.    |
 | **SceneBuilder/HTML/CSS**  | Boa proficiência em criar interfaces visuais utilizando SceneBuilder, com integração a HTML e CSS para estilização. |
 | **Java**                   | Experiência intermediária em desenvolvimento de aplicativos, com foco em projetos orientados a objetos.     |
@@ -237,8 +237,8 @@ Como pode ser observado no código acima, a essência da funcionalidade de lista
 
 | Habilidade             | Justificativa                                                                                              |
 |------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Habilidade moderada para expressar ideias, com espaço para melhorar a clareza e eficiência na transmissão. |
-| **Trabalho em Equipe** | Boa capacidade de colaborar com times, contribuindo positivamente, mas com necessidade de maior prática em conflitos. |
+| **Comunicação**        | Habilidade moderada para expressar ideias, com espaço para melhorar a clareza e eficiência na transmissão. Habilidade aplicada no momento de  expressar ideias de como melhorar o sistema e em momentos onde precisave de auxilio para resolver determinados problemas.  |
+| **Trabalho em Equipe** | Boa capacidade de colaborar com times, contribuindo positivamente, mas com necessidade de maior prática em conflitos. Habilidade aplicada ao precisar aprender novas habilidades tecnicas e aprender com os membros do grupo |
 | **Resolução de Problemas** | Competência notável para identificar e resolver desafios técnicos e lógicos de maneira eficaz.              |
 | **Responsabilidade**   | Compromisso consistente com prazos e entrega de qualidade, mas com possibilidade de reforçar a autonomia em tarefas complexas. | 
 
