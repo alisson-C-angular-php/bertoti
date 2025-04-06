@@ -23,7 +23,7 @@ Desenvolvemos um sistema robusto com as seguintes funcionalidades:
 
 ## GitHub do projeto
 
-- [Repositório no GitHub](https://github.com/api-5-sem/api)
+- [Repositório no GitHub](https://github.com/api-5-sem/api-documentation)
 
 ---
 
