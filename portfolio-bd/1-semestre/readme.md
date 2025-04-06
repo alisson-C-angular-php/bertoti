@@ -63,6 +63,8 @@ class profile_repository(object):
         self._apiContext.user_table.commit()
 ```
 
+A classe profile_repository foi construída para encapsular as operações de leitura, escrita, atualização e exclusão de perfis e usuários em um sistema
+
 2. **Implementação de validação para verificar a que turma um usuario pertencia**:
    - Desenvolvimento completo do endpoint e comunicação com banco:
 
@@ -84,6 +86,8 @@ class profile_repository(object):
         model.id = item.id;
         self.updateTeam(model);
  ```
+
+Percorrido o grupo eu consigo validar se ja pertence um time naquele grupo que correpondam ao usuario, garantindo que não haja duplicidade de times dentro do grupo
  
 
 3. **Implementação da listagem de usuario**:
