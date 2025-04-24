@@ -3,6 +3,12 @@
 ## 🏢 Empresa Parceira
 A empresa parceira escolhida para este projeto foi a **Pro4tech**.
 
+
+## Atuação da empresa
+
+Uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinamos nossa expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à  capacidade de desenvolver estratégias personalizadas para cada negócio.
+
+
 ---
 
 ## 📌 Problema
