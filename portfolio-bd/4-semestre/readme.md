@@ -3,6 +3,13 @@
 ## 🏢 Empresa Parceira
 A empresa parceira escolhida para este projeto foi a **Oracle**.
 
+
+## Atuação da empresa:
+
+Atualmente a oracle é empresa de tecnologia em nuvem que fornece às organizações em todo o mundo infraestrutura de computação e software para ajudá-las a inovar, desbloquear eficiências e se tornar mais eficazes. ento sustentável e se tornar mais resilientes.
+
+O trabalho que fazemos não está apenas transformando o mundo dos negócios - está ajudando a defender os governos e promover a pesquisa científica e médica. De organizações sem fins lucrativos a empresas de todos os tamanhos, milhões de pessoas usam nossas ferramentas para simplificar as cadeias de suprimentos, tornar o RH mais humano, mudar rapidamente para um novo plano financeiro.
+
 ---
 
 ## 📌 Problema
