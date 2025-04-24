@@ -3,6 +3,9 @@
 ## 🏢 Empresa Parceira
 A empresa parceira escolhida foi a **2RP**.  
 
+Atuação da empresa:
+
+Atualmente a empresa atua na análise de transações financeiras e na análise de dados para geração de insights para aprimorar a experiência de seus clientes
 ---
 
 ## 📌 Problema
