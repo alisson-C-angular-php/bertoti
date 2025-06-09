@@ -111,4 +111,3 @@ Atuei em duas frentes principais no projeto:
 
 ---
 
-Se quiser, posso gerar uma versão em inglês ou exportar esse conteúdo em formato Markdown para uso direto no GitHub. Deseja isso?
