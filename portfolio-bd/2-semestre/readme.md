@@ -1,49 +1,97 @@
-# Projeto de Gestão de Horas Extras - Parceira 2RP  
+# 🕒 Projeto de Sistema Web para Gestão de Horas Extras – Parceira **2RP**
 
-## 🏢 Empresa Parceira
-A empresa parceira escolhida foi a **2RP**.  
+## 🏢 Empresa Parceira: 2RP
 
-### Atuação da empresa:
-
-Atualmente a empresa atua na análise de transações financeiras e na análise de dados para geração de insights para aprimorar a experiência de seus clientes
+A empresa parceira escolhida foi a **2RP**, que atua no setor de **análise de transações financeiras** e **inteligência de dados**, com foco na geração de **insights estratégicos** para aprimorar a experiência de seus clientes e impulsionar a tomada de decisão baseada em dados.
 
 ---
 
-## 📌 Problema
-A necessidade apresentada refere-se à implementação de um sistema para **gerenciar horas extras**.  
-As principais funcionalidades solicitadas incluem:  
-- Usuários devem registrar suas horas adicionais de trabalho e **acessar informações em tempo real**.  
-- Gestores e administradores devem:  
-  - **Controlar o acesso** ao sistema.  
-  - Extrair **relatórios detalhados** das horas trabalhadas por cada usuário.  
-  - Personalizar configurações como:  
-    - Definir as **horas iniciais do período noturno**.  
-    - Estabelecer os **valores correspondentes às horas extras**.  
+## 📌 Desafio
+
+A 2RP identificou a necessidade de desenvolver uma aplicação web para a **gestão eficiente das horas extras de seus colaboradores**, com diferentes funcionalidades voltadas aos perfis de **usuários comuns, gestores e administradores**.
+
+### Principais Requisitos:
+
+* Colaboradores devem poder registrar e consultar suas horas extras **em tempo real**.
+* Gestores e administradores devem ser capazes de:
+
+  * **Gerenciar acessos** com base em perfis de usuário.
+  * **Personalizar parâmetros do sistema**, como:
+
+    * Horário de início do período noturno.
+    * Valores atribuídos às horas extras (comum e noturna).
+  * **Extrair relatórios gerenciais e analíticos** com filtros por data, usuário, centro de custo, entre outros.
 
 ---
 
-## 💡 Solução
-A solução entregue foi desenvolvida para atender às necessidades específicas de **administradores**, **gestores** e **usuários**:  
+## 💡 Solução Desenvolvida
 
-### Para Administradores  
-- Controle completo (CRUD) de:  
-  - Usuários.  
-  - Centros de resultado.  
-  - Clientes.  
-- Parametrização do sistema:  
-  - Definição do valor das taxas de trabalho.  
-  - Configuração do início/fim das horas noturnas.  
-- Extração de relatórios detalhados.  
-- Aprovação/reprovação de horas extras lançadas.  
+Foi criada uma aplicação web responsiva e segura, com funcionalidades específicas para cada tipo de usuário.
 
-### Para Gestores  
-- Lançamento de horas extras.  
-- Extração de relatórios relacionados ao gestor ou aos seus funcionários.  
-- Acompanhamento em tempo real das horas trabalhadas.  
+### 🔒 **Administradores**
 
-### Para Usuários  
-- Lançamento de horas extras.  
-- Acompanhamento detalhado das horas extras acumuladas ao longo do mês.  
+* Acesso completo ao sistema com funcionalidades de:
+
+  * **CRUD** de usuários, centros de resultado e clientes.
+  * Configuração de parâmetros do sistema:
+
+    * Valor da hora extra comum e noturna.
+    * Horário de início e término do período noturno.
+  * **Aprovação e reprovação** de lançamentos realizados por colaboradores.
+  * Geração de **relatórios gerenciais detalhados**, com exportação em múltiplos formatos.
+
+### 👨‍💼 **Gestores**
+
+* Lançamento de horas extras para membros de sua equipe.
+* Visualização e análise em tempo real das horas lançadas por colaboradores sob sua gestão.
+* Acesso a relatórios específicos com filtros personalizados.
+
+### 👷 **Usuários (Colaboradores)**
+
+* Lançamento individual das horas extras realizadas.
+* Acompanhamento diário e mensal das horas extras acumuladas.
+* Visualização de status dos lançamentos (pendente, aprovado ou reprovado).
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+* **Frontend:** Angular + TypeScript
+* **Backend:** Java com Spring Boot
+* **Banco de Dados:** PostgreSQL
+* **Controle de Versão:** Git e GitHub
+* **Metodologia:** Desenvolvimento ágil com foco em entregas modulares e testes contínuos
+
+---
+
+## 👨‍💻 Contribuições Pessoais
+
+Durante o projeto, atuei diretamente nas seguintes frentes:
+
+* Desenvolvimento e integração dos módulos de autenticação, lançamento e validação de horas.
+* Implementação das regras de negócio para cálculo das horas extras com base em faixas horárias.
+* Construção dos componentes de relatório e filtros personalizados por perfil.
+* Integração completa entre frontend e backend via API REST.
+* Versionamento de código e organização da estrutura do repositório.
+
+---
+
+## 🧠 Habilidades Desenvolvidas
+
+### Técnicas (Hard Skills)
+
+* Programação com **Java (Spring Boot)** e **Angular**.
+* Consumo e criação de **APIs RESTful**.
+* Modelagem e manipulação de dados em **PostgreSQL**.
+* Arquitetura MVC, controle de permissões e autenticação JWT.
+* Versionamento e colaboração com **Git/GitHub**.
+
+### Interpessoais (Soft Skills)
+
+* Colaboração em equipe multidisciplinar.
+* Adaptação a requisitos dinâmicos.
+* Comunicação efetiva e organização no trabalho em equipe.
+* Resolução ágil de problemas técnicos.
 
 ---
 
