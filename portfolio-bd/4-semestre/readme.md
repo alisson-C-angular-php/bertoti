@@ -176,57 +176,67 @@ public class Empresa {
     }
  ```
 
+---
 
+## **Contribuições como Scrum Master**
 
+Durante o desenvolvimento de um sistema web para gestão de tarefas acadêmicas, o cliente — um grupo de alunos e professores — buscava uma solução eficiente para organizar e acompanhar atividades, prazos e responsabilidades de forma colaborativa. O desafio principal era garantir a organização das entregas em um curto espaço de tempo, promovendo integração entre os membros e mantendo a qualidade das entregas, mesmo com diferentes níveis de experiência técnica na equipe.
 
+Como **Scrum Master**, atuei como facilitador do processo de desenvolvimento ágil, com foco em garantir que a equipe seguisse os princípios do **Scrum** de forma disciplinada e produtiva. Minhas principais contribuições envolveram:
 
+* **Planejamento e organização das sprints**, definindo claramente os objetivos de cada ciclo de entrega e promovendo reuniões de planejamento e review com o time.
+* **Documentação das tarefas no ClickUp**, o que proporcionou total visibilidade para todos os membros da equipe e permitiu que as atividades fossem monitoradas e atualizadas com clareza.
+* **Criação e análise de burndown charts**, que ajudaram a identificar gargalos e ajustar o ritmo de trabalho conforme necessário.
+* **Mediação de conflitos e facilitação da comunicação entre membros da equipe**, promovendo um ambiente de cooperação e responsabilidade mútua.
+* **Aplicação de cerimônias ágeis** (daily meetings, sprint planning e retrospectivas), aumentando a transparência e a capacidade de adaptação diante de mudanças de escopo.
 
-
+Essas atividades exigiram o uso efetivo de **hard skills**, como o domínio de ferramentas de gestão ágil, conhecimento de **metodologias ágeis (Scrum)**, e capacidade técnica para dialogar com desenvolvedores sobre **APIs REST**, **HTML/CSS**, e **Vue.js**. Paralelamente, foi essencial o uso de **soft skills**, especialmente **comunicação**, **trabalho em equipe**, **resolução de problemas** e **responsabilidade** para conduzir a equipe de forma colaborativa, focada em resultados.
 
 ---
 
-## Hard Skills
+## **Hard Skills**
 
-| Tecnologia/Metodologia   | Classificação |
-|--------------------------|---------------|
-| **HTML/CSS**             | ★☆☆☆☆☆☆☆☆☆☆  |
-| **Vue**                  | ★★★☆☆☆☆☆☆☆☆  |
-| **Typescript**           | ★★★★★★★★★★  |
-| **Scrum**                | ★★★★★★★★★★  |
-| **UX/UI Design**         | ★★★★★★★★★★  |
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| **SQL**                | ★★★★★★☆☆☆☆☆   |
+| **MySQL**              | ★★★★☆☆☆☆☆☆    |
+| **HTML/CSS**           | ★★★★★★★☆☆☆    |
+| **Vue**                | ★★★★★★★☆☆☆    |
+| **REST**               | ★★★★★★★☆☆☆    |
+| **Scrum**              | ★★★★★★★☆☆☆    |
+| **UX/UI Design**       | ★★★★★☆☆☆☆☆    |
 
+### Justificativa
 
-
-
-## Soft Skills
-
-
-| Habilidade             | Classificação |
-|------------------------|---------------|
-| **Comunicação**        | ★★★★★★★☆☆☆☆  |
-| **Trabalho em Equipe** | ★★★★★☆☆☆☆☆  |
-| **Resolução de Problemas** | ★★★★★★★☆☆☆  |
-| **Responsabilidade**   | ★★★★★★★☆☆☆  |
-
-
-
-### Justificativa para Hard Skills
-
-| Tecnologia/Metodologia   | Justificativa                                                                                               |
-|--------------------------|-----------------------------------------------------------------------------------------------------------|
-| **HTML/CSS**             | Conhecimento básico, suficiente para criar estruturas simples e aplicar estilizações iniciais em projetos web. Construindo estruturas que atendam as necissade de funcionalidades requeridas. |
-| **Vue**                  | Familiaridade prática com a framework, com capacidade de construir componentes básicos e integrar funcionalidades entre frontend e backend. Construindo assim sistemas robusto e consistentes. |
-| **TypeScript**           | Domínio avançado, com habilidade para desenvolver aplicações complexas e aproveitar recursos de tipagem estática. |
-| **Scrum**                | Experiência consolidada na aplicação de Scrum para gerenciar projetos, garantir a produtividade e promover a colaboração. |
-| **UX/UI Design**         | Forte habilidade em criar interfaces amigáveis e acessíveis, com foco na experiência do usuário e design funcional. |
+| Tecnologia/Metodologia | Justificativa                                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------------------------- |
+| **SQL/MySQL**          | Conhecimento funcional na criação de tabelas e execução de queries simples para apoio ao desenvolvimento. |
+| **HTML/CSS**           | Desenvolvimento de layouts para interfaces do sistema com foco em responsividade e usabilidade.           |
+| **Vue.js**             | Criação e gerenciamento de componentes dinâmicos e reativos da interface do sistema.                      |
+| **REST**               | Apoio na implementação e integração de endpoints RESTful no projeto.                                      |
+| **Scrum**              | Atuação direta como facilitador no uso da metodologia, aplicando práticas de planejamento e entrega ágil. |
+| **UX/UI Design**       | Criação de wireframes e ajustes de interface baseados no feedback dos usuários finais.                    |
 
 ---
 
-### Justificativa para Soft Skills
+## **Soft Skills**
 
-| Habilidade             | Justificativa                                                                                              |
-|------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Boa capacidade de expressar ideias e informações, com foco na clareza e adequação ao público-alvo. Transmiti todas as demandas que foi acordada com o cliente.          |
-| **Trabalho em Equipe** | Experiência em colaborar com grupos, com necessidade de desenvolver maior flexibilidade para lidar com diferentes dinâmicas de equipe. Na criação do backlog depois de acertado com o cliente as necessidades do mesmo, trablhei com a equipe transmitido e comunicando as tarefas necessarias para atingirmos essas necessidades. |
-| **Resolução de Problemas** | Demonstro habilidade consistente em analisar cenários e propor soluções criativas e eficazes para desafios técnicos. Em situações como a falta de comunicação por parte do cliente, assumo uma postura proativa e estratégica, contribuindo diretamente para o avanço do projeto e garantindo a continuidade das entregas |
-| **Responsabilidade**   | Forte senso de compromisso com prazos e objetivos, garantindo a entrega de resultados com qualidade. Utilizei meu senso de compromisso com os objetivos do projeto para garantir que todos os resultados fossem entregues com alta qualidade        | 
+| Habilidade                 | Classificação |
+| -------------------------- | ------------- |
+| **Comunicação**            | ★★★★★★☆☆☆☆☆   |
+| **Trabalho em Equipe**     | ★★★★☆☆☆☆☆☆    |
+| **Resolução de Problemas** | ★★★★★★★☆☆☆    |
+| **Responsabilidade**       | ★★★★★★☆☆☆☆☆   |
+
+### Justificativa
+
+| Habilidade                 | Justificativa                                                                                              |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Comunicação**            | Facilitou a compreensão entre membros técnicos e não técnicos, essencial para manter todos alinhados.      |
+| **Trabalho em Equipe**     | Participação ativa em decisões do grupo, ajudando na integração entre membros com diferentes experiências. |
+| **Resolução de Problemas** | Condução de decisões rápidas durante imprevistos nas sprints, como replanejamento de tarefas prioritárias. |
+| **Responsabilidade**       | Garantia de que prazos e entregas fossem cumpridos, mantendo o comprometimento com a qualidade.            |
+
+---
+
+
