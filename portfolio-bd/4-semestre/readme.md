@@ -1,30 +1,54 @@
-# Projeto de Sistema de Acompanhamento de Parceiros - Oracle
+# 📈 Projeto de Sistema de Acompanhamento de Parceiros - **Oracle**
 
-## 🏢 Empresa Parceira
-A empresa parceira escolhida para este projeto foi a **Oracle**.
+## 🏢 Empresa Parceira: Oracle
 
+A empresa parceira deste projeto é a **Oracle**, uma das líderes globais em tecnologia da informação.
 
-## Atuação da empresa:
+### 🌐 Atuação da Oracle
 
-Atualmente a oracle é empresa de tecnologia em nuvem que fornece às organizações em todo o mundo infraestrutura de computação e software para ajudá-las a inovar, desbloquear eficiências e se tornar mais eficazes. ento sustentável e se tornar mais resilientes.
+A **Oracle** é uma multinacional especializada em **tecnologia em nuvem**, oferecendo **infraestrutura de computação, software empresarial e banco de dados** para organizações em todo o mundo. Seu objetivo é ajudar empresas a inovar, operar com mais eficiência e se tornarem mais resilientes e sustentáveis.
 
-O trabalho que fazemos não está apenas transformando o mundo dos negócios - está ajudando a defender os governos e promover a pesquisa científica e médica. De organizações sem fins lucrativos a empresas de todos os tamanhos, milhões de pessoas usam nossas ferramentas para simplificar as cadeias de suprimentos, tornar o RH mais humano, mudar rapidamente para um novo plano financeiro.
+O impacto da Oracle vai além do setor corporativo. Suas soluções também apoiam **governos, ONGs e instituições de pesquisa científica e médica**. De pequenas empresas a grandes corporações, milhões de pessoas utilizam as ferramentas da Oracle para:
 
----
-
-## 📌 Problema
-A Oracle propôs o desafio de criar um sistema que permitisse aos usuários:
-- **Monitorar a porcentagem de parceiros por estado.**
-- **Acompanhar a taxa de conclusão dos cursos de capacitação de cada parceiro.**
-- **Gerenciar a proximidade do vencimento dos cursos de capacitação.**
+* Automatizar cadeias de suprimentos;
+* Otimizar a gestão de recursos humanos;
+* Planejar financeiramente com agilidade;
+* Transformar dados em decisões estratégicas.
 
 ---
 
-## 💡 Solução
-Desenvolvemos um sistema robusto com as seguintes funcionalidades:
-- **Gerenciamento de usuários, empresas parceiras e trilhas de ensino.**
-- **Acompanhamento em tempo real** do progresso de cada parceiro.
-- **Notificações automáticas** baseadas no vencimento dos cursos de capacitação.
+## 📌 Problema Identificado
+
+A Oracle apresentou o desafio de desenvolver um sistema para **monitoramento e gestão de parceiros**, com foco em **capacitação e desempenho regional**.
+
+O sistema precisava contemplar:
+
+* 📍 **Monitoramento da distribuição percentual de parceiros por estado**;
+* 🎓 **Acompanhamento da taxa de conclusão dos cursos de capacitação por parceiro**;
+* ⏳ **Gestão da validade dos cursos, com alerta para vencimentos próximos**.
+
+---
+
+## 💡 Solução Desenvolvida
+
+Para atender às necessidades da Oracle, foi projetado e implementado um **sistema inteligente e interativo**, com as seguintes funcionalidades:
+
+### 🧑‍💼 Gerenciamento de Usuários e Parceiros
+
+* Cadastro e gerenciamento de **empresas parceiras**, usuários e suas respectivas **trilhas de capacitação**.
+
+### 📊 Dashboard Analítico
+
+* Visualização **em tempo real** da **distribuição geográfica de parceiros**, com mapas e gráficos.
+* Indicadores de **taxas de conclusão de cursos** e **nível de engajamento por parceiro**.
+
+### 🔔 Notificações Inteligentes
+
+* Sistema automatizado de **alertas e notificações**, informando parceiros sobre a **proximidade do vencimento dos cursos**.
+
+### 🔐 Controle de Acesso
+
+* Módulo de permissões com diferentes níveis de acesso, garantindo segurança e confidencialidade dos dados.
 
 ---
 
