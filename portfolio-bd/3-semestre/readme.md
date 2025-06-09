@@ -1,55 +1,71 @@
-# Projeto de Gestão de Horas Extras - Parceira 2RP
+# ⏱️ Projeto de Sistema Web para Gestão de Horas Extras – **2RP**
 
-## 🏢 Empresa Parceira
-A empresa parceira escolhida para este projeto foi a **2RP**.
+## 🏢 Empresa Parceira: 2RP
 
-## Atuação da empresa:
-
-Atualmente a empresa atua na análise de transações financeiras e na análise de dados para geração de insights para aprimorar a experiência de seus clientes.
+A empresa parceira deste projeto é a **2RP**, especializada em **análise de transações financeiras** e **processamento de dados** com foco na geração de **insights estratégicos** para aprimorar a experiência e a eficiência operacional de seus clientes.
 
 ---
 
-## 📌 Problema
+## 📌 Problema Identificado
 
-A 2RP identificou os seguintes desafios e necessidades:  
-- **Usuários**:  
-  - Registrar suas horas adicionais de trabalho.  
-  - Acessar informações sobre essas horas em tempo real.  
-- **Gestores e Administradores**:  
-  - Controlar o acesso ao sistema.  
-  - Extrair **relatórios detalhados** das horas trabalhadas.  
-  - Personalizar configurações, incluindo:  
-    - Definição das **horas iniciais do período noturno**.  
-    - Especificação dos **valores das horas extras**.  
+A 2RP identificou a necessidade de um sistema digital para **otimizar a gestão de horas extras**, tanto do ponto de vista operacional quanto gerencial.
+
+Os principais desafios mapeados foram:
+
+### 👤 **Para Usuários (Colaboradores)**
+
+* Registrar horas extras de forma prática e segura.
+* Visualizar em tempo real o total de horas acumuladas.
+
+### 👥 **Para Gestores**
+
+* Lançar horas extras de suas equipes.
+* Acompanhar os registros em tempo real.
+* Gerar relatórios analíticos de produtividade.
+
+### 🛠️ **Para Administradores**
+
+* Gerenciar acessos e permissões.
+* Personalizar regras do sistema (como valores de hora extra e horário noturno).
+* Validar, aprovar ou reprovar lançamentos de horas.
+* Extrair relatórios globais detalhados para auditoria e tomada de decisão.
+
+---
+
+## 💡 Solução Desenvolvida
+
+Com base nas necessidades levantadas, foi desenvolvido um **sistema web responsivo e modular**, com foco em usabilidade, segurança e escalabilidade.
+
+### 🧑‍💼 **Módulo do Administrador**
+
+* Gestão completa de:
+
+  * Usuários.
+  * Clientes.
+  * Centros de resultado.
+* Parametrização do sistema:
+
+  * Definição personalizada de faixas de horário noturno.
+  * Estabelecimento dos valores de hora extra (normal e noturna).
+* Validação de lançamentos:
+
+  * Aprovação ou reprovação de horas extras enviadas pelos colaboradores.
+* Relatórios gerenciais detalhados, exportáveis para auditoria.
+
+### 👨‍💼 **Módulo do Gestor**
+
+* Lançamento manual de horas extras para membros da equipe.
+* Acompanhamento em tempo real do desempenho por colaborador.
+* Geração de relatórios filtrados por período, colaborador ou centro de resultado.
+
+### 👷 **Módulo do Usuário (Colaborador)**
+
+* Registro individual de horas extras trabalhadas.
+* Visualização em tempo real das horas acumuladas no mês.
+* Histórico de aprovações e pendências.
 
 ---
 
-
-## 💡 Solução
-
-O sistema desenvolvido atendeu às necessidades específicas dos diferentes perfis de usuários:
-
-### **Para Administradores**
-- Controle completo (CRUD) de:  
-  - Usuários.  
-  - Centros de resultado.  
-  - Clientes.  
-- Parametrização do sistema:  
-  - Definição do valor das taxas de trabalho.  
-  - Configuração do início e fim das horas noturnas.  
-- Extração de relatórios detalhados das horas trabalhadas.  
-- Aprovação e reprovação de horas extras lançadas.  
-
-### **Para Gestores**
-- Lançamento de horas extras.  
-- Extração de relatórios sobre suas equipes.  
-- Acompanhamento em tempo real das horas trabalhadas.  
-
-### **Para Usuários**
-- Registro de horas extras realizadas.  
-- Monitoramento detalhado das horas extras acumuladas ao longo do mês.  
-
----
 
 ## GitHub do projeto
 
