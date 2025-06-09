@@ -1026,55 +1026,49 @@ jobs:
 
 Na primeira etapa como ja comentado,é chamada de build, o workflow instala as dependências do projeto localizado no diretório ./api, configura o ambiente Node.js e instala o Angular CLI. Caso a branch seja develop, ele também executa testes unitários com o comando ng test, garantindo que o código esteja funcionando corretamente. Em seguida, na etapa build-and-push-acr, que roda apenas quando há um pull request direcionado à branch main, o código é empacotado em uma imagem Docker e enviado ao Azure Container Registry (ACR). Após isso, o pipeline conecta-se ao cluster Kubernetes no Azure (AKS) e atualiza a aplicação com a nova imagem, utilizando os arquivos de manifesto deployment.yaml e service.yam
 
+---
 
-   
 
+## **Hard Skills**
+
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| **HTML/CSS**           | ★★★★☆☆☆☆☆☆    |
+| **Angular**            | ★★★★★☆☆☆☆☆    |
+| **GitHub/Actions**     | ★★★★★☆☆☆☆☆    |
+| **TypeScript**         | ★★★★★★★★★★    |
+| **Scrum**              | ★★★★★★★★★★    |
+| **UX/UI Design**       | ★★★★★★★★★★    |
+
+### **Justificativas – Hard Skills**
+
+| Tecnologia/Metodologia | Justificativa                                                                                                                                         |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **HTML/CSS**           | Conhecimento funcional para estruturar páginas e aplicar estilos básicos, suficiente para prototipagem rápida e suporte ao front-end.                 |
+| **Angular**            | Experiência prática na construção de componentes reutilizáveis, integração com serviços e utilização de rotas e diretivas da framework.               |
+| **GitHub/Actions**     | Capacidade de utilizar versionamento de código com Git e configurar automações com GitHub Actions para integração e entrega contínua (CI/CD).         |
+| **TypeScript**         | Domínio avançado na criação de aplicações robustas com tipagem estática, interfaces e princípios de orientação a objetos.                             |
+| **Scrum**              | Atuação efetiva como Scrum Master, facilitando cerimônias ágeis e aplicando boas práticas para promover a entrega contínua e o alinhamento da equipe. |
+| **UX/UI Design**       | Forte habilidade em desenvolver interfaces centradas no usuário, aplicando princípios de usabilidade, acessibilidade e design responsivo.             |
 
 ---
 
-## Hard Skills
+## **Soft Skills**
 
-| Tecnologia/Metodologia   | Classificação |
-|--------------------------|---------------|
-| **HTML/CSS**             | ★★★★☆☆☆☆☆☆☆  |
-| **Angular**                  | ★★★★★☆☆☆☆☆  |
-| **Github/Actions**           | ★★★★★☆☆☆☆☆  |
-| **Typescript**           | ★★★★★★★★★★  |
-| **Scrum**                | ★★★★★★★★★★  |
-| **UX/UI Design**         | ★★★★★★★★★★  |
+| Habilidade                 | Classificação |
+| -------------------------- | ------------- |
+| **Comunicação**            | ★★★★★★★☆☆☆☆   |
+| **Trabalho em Equipe**     | ★★★★★★★★☆☆    |
+| **Resolução de Problemas** | ★★★★★★★☆☆☆    |
+| **Responsabilidade**       | ★★★★★★★☆☆☆    |
 
+### **Justificativas – Soft Skills**
 
-
-
-## Soft Skills
-
-
-| Habilidade             | Classificação |
-|------------------------|---------------|
-| **Comunicação**        | ★★★★★★★☆☆☆☆  |
-| **Trabalho em Equipe** | ★★★★★★★★☆☆  |
-| **Resolução de Problemas** | ★★★★★★★☆☆☆  |
-| **Responsabilidade**   | ★★★★★★★☆☆☆  |
-
-
-
-### Justificativa para Hard Skills
-
-| Tecnologia/Metodologia   | Justificativa                                                                                               |
-|--------------------------|-----------------------------------------------------------------------------------------------------------|
-| **HTML/CSS**             | Conhecimento básico, suficiente para criar estruturas simples e aplicar estilizações iniciais em projetos web. |
-| **Angular**                  | Familiaridade prática com a framework, com capacidade de construir componentes básicos e integrar funcionalidades e desenvolver componentes mais personalizados. |
-| **TypeScript**           | Domínio avançado, com habilidade para desenvolver aplicações complexas e aproveitar recursos de tipagem estática. |
-| **Scrum**                | Experiência consolidada na aplicação de Scrum para gerenciar projetos, garantir a produtividade e promover a colaboração. |
-| **UX/UI Design**         | Forte habilidade em criar interfaces amigáveis e acessíveis, com foco na experiência do usuário e design funcional. |
+| Habilidade                 | Justificativa                                                                                                                                                                |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comunicação**            | Capacidade sólida de articular ideias com clareza em diferentes canais (oral e escrito), facilitando a troca de informações entre áreas técnicas e não técnicas.             |
+| **Trabalho em Equipe**     | Experiência em ambientes colaborativos, atuando com empatia e proatividade na resolução de conflitos e na divisão de responsabilidades durante o projeto.                    |
+| **Resolução de Problemas** | Habilidade em diagnosticar causas de erros técnicos, propor soluções rápidas e eficientes, com foco em otimizar a experiência do usuário e manter a estabilidade do sistema. |
+| **Responsabilidade**       | Comprometimento constante com prazos e metas do projeto, demonstrando organização, foco em resultados e entrega de qualidade.                                                |
 
 ---
-
-### Justificativa para Soft Skills
-
-| Habilidade             | Justificativa                                                                                              |
-|------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Boa capacidade de expressar ideias e informações, com foco na clareza e adequação ao público-alvo. Recendo demandas e processando essas informação via canais de comunicação.         |
-| **Trabalho em Equipe** | Experiência em colaborar com grupos, com necessidade de desenvolver maior flexibilidade para lidar com diferentes dinâmicas de equipe. Podendo lidar com os diferentes requisitos e desafios surgidos durante o projeto e organizando nosso processo de desenvolvimento |
-| **Resolução de Problemas** | Habilidade consistente para analisar situações e propor soluções criativas e eficazes para desafios técnicos. Resolvendo nossas demandas de forma concisa e eficiente. Com foco na experiencia do usuario. |
-| **Responsabilidade**   | Forte senso de compromisso com prazos e objetivos, garantindo a entrega de resultados com qualidade. Sendo comprometido com a entrega e o foco no resultado.       | 
