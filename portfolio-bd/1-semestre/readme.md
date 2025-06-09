@@ -143,49 +143,47 @@ router.include_router(usuario_controler.router)
 
 ```
 
-**Hard Skills**
+---
 
-| Tecnologia/Metodologia | Classificação |
-|------------------------|---------------|
-| **Python**             | ★★★★★★★★★★   |
-| **HTML/CSS**           | ★☆☆☆☆☆☆☆☆☆☆   |
-| **Javascript**         | ★☆☆☆☆☆☆☆☆☆☆   |
-| **FastAPI**            | ★★★★★★★★★★   |
-| **Scrum**              | ★★★★★★★★★★   |
+## 🛠 Hard Skills
 
+| Tecnologia / Metodologia | Nível de Proficiência             |
+| ------------------------ | --------------------------------- |
+| **Python**               | ★★★★★★★★★★ (Avançado)             |
+| **HTML/CSS**             | ★★★☆☆☆☆☆☆☆ (Básico-Intermediário) |
+| **JavaScript**           | ★★★☆☆☆☆☆☆☆ (Básico-Intermediário) |
+| **FastAPI**              | ★★★★★★★★★★ (Avançado)             |
+| **Scrum**                | ★★★★★★★★★★ (Avançado)             |
 
-**Soft Skills**
+### Justificativas para Hard Skills
 
-| Habilidade             | Classificação |
-|------------------------|---------------|
-| **Comunicação**        | ★★★★★★★★★★   |
-| **Trabalho em Equipe** | ★★★★★★★★★☆   |
-| **Resolução de Problemas** | ★★★★★★★★★★   |
-| **Responsabilidade**   | ★★★★★★★★★★   |
-
-
-
-
-
-### Justificativa para Hard Skills
-
-| Tecnologia/Metodologia | Justificativa                                                                                          |
-|------------------------|-------------------------------------------------------------------------------------------------------|
-| **Python**             | Domínio avançado em Python, com experiência em automação, desenvolvimento de APIs e análise de dados. |
-| **HTML/CSS**           | Conhecimento básico, com foco em estruturas simples e estilização básica de páginas web.              |
-| **JavaScript**         | Familiaridade inicial, suficiente para implementar funcionalidades básicas em páginas web.            |
-| **FastAPI**            | Extensa experiência no uso dessa framework para criação de APIs escaláveis e performáticas.           |
-| **Scrum**              | Experiência prática na aplicação de Scrum para gerenciar projetos e manter times alinhados.           |
+| Tecnologia / Metodologia | Justificativa                                                                                                  |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Python**               | Proficiência avançada no desenvolvimento de aplicações backend, automação de processos e análise de dados.     |
+| **HTML/CSS**             | Conhecimento sólido em estruturação e estilização de páginas, com foco em responsividade e usabilidade básica. |
+| **JavaScript**           | Experiência inicial, suficiente para manipulação do DOM e integração com APIs REST no frontend.                |
+| **FastAPI**              | Expertise no desenvolvimento de APIs RESTful escaláveis e performáticas, com validação robusta de dados.       |
+| **Scrum**                | Vivência prática em gerenciamento ágil de projetos, facilitando entregas incrementais e trabalho colaborativo. |
 
 ---
 
-### Justificativa para Soft Skills
+## 💡 Soft Skills
 
-| Habilidade             | Justificativa                                                                                          |
-|------------------------|-------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Habilidade excelente para transmitir ideias de forma clara, tanto oralmente quanto por escrito.       |
-| **Trabalho em Equipe** | Experiência em colaborar com times diversos, buscando soluções conjuntas e mantendo um bom relacionamento. |
-| **Resolução de Problemas** | Capacidade comprovada de analisar situações complexas e desenvolver soluções eficazes e criativas. |
-| **Responsabilidade**   | Forte senso de compromisso, com entrega consistente de resultados e cumprimento de prazos.             |
+| Habilidade                 | Nível de Desenvolvimento |
+| -------------------------- | ------------------------ |
+| **Comunicação**            | ★★★★★★★★★★ (Excelente)   |
+| **Trabalho em Equipe**     | ★★★★★★★★★☆ (Muito Bom)   |
+| **Resolução de Problemas** | ★★★★★★★★★★ (Excelente)   |
+| **Responsabilidade**       | ★★★★★★★★★★ (Excelente)   |
 
+### Justificativas para Soft Skills
+
+| Habilidade                 | Justificativa                                                                                                                        |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Comunicação**            | Capacidade notável para expressar ideias de forma clara e objetiva, facilitando o entendimento em ambientes técnicos e não técnicos. |
+| **Trabalho em Equipe**     | Experiência sólida em colaboração multidisciplinar, promovendo um ambiente de trabalho harmonioso e produtivo.                       |
+| **Resolução de Problemas** | Aptidão para identificar desafios complexos e implementar soluções inovadoras e eficazes.                                            |
+| **Responsabilidade**       | Comprometimento consistente com prazos e qualidade, garantindo entregas confiáveis e alinhadas às expectativas.                      |
+
+---
 
