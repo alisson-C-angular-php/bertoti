@@ -1,29 +1,38 @@
-# Projeto de Dashboard Interativo para Análise de Dados de Recrutamento e Seleção - Pro4tech
+# 📊 Projeto de Dashboard Interativo para Análise de Dados de Recrutamento e Seleção - **Pro4tech**
 
-## 🏢 Empresa Parceira
-A empresa parceira escolhida para este projeto foi a **Pro4tech**.
+## 🏢 Empresa Parceira: Pro4tech
 
-
-## Atuação da empresa
-
-Uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinamos nossa expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à  capacidade de desenvolver estratégias personalizadas para cada negócio.
-
+A **Pro4tech** é uma empresa especializada em **Transformação Digital**, atuando com tecnologias emergentes como **Inteligência Artificial, Análise de Dados, Internet das Coisas (IoT)** e **Computação em Nuvem**. Seu foco é impulsionar empresas por meio da criação de **soluções tecnológicas personalizadas**, aumentando a eficiência e a competitividade dos negócios.
 
 ---
 
-## 📌 Problema
-A Pro4tech propôs o desafio de criar um sistema que permitisse aos usuários:
-- **Monitorar o desempenho de candidatos em vagas.**
-- **Analisar o perfil de candidatos e sua aderencias a vagas**
-- **Acompanhamento, centralização e análise de dados essenciais do processo seletivo.**
+## ❗ Descrição do Problema Proposto
+
+A **Pro4tech** identificou a necessidade de um sistema que otimizasse o processo de **recrutamento e seleção**, oferecendo uma solução para:
+
+* Centralizar e acompanhar dados do processo seletivo;
+* Avaliar o desempenho de candidatos em cada etapa;
+* Analisar o perfil dos candidatos com base na aderência às vagas;
+* Fornecer painéis personalizados para tomada de decisões estratégicas;
+* Gerenciar diferentes níveis de acesso à informação com segurança.
 
 ---
 
-## 💡 Solução
-Desenvolvemos um sistema robusto com as seguintes funcionalidades:
-- **Criar um sistema com interface interativa para personalização de gráficos, permitindo selecionar tipo e filtros de dados.**
-- **Desenvolver um sistema modular de permissões para definir acessos a conteúdos nos dashboards e outras áreas.** 
-- **Desenvolver um sistema de exportação que permita ao usuário baixar os gráficos e dados visualizados diretamente na tela.**.
+## 💡 Solução Desenvolvida
+
+Foi desenvolvido um **Dashboard Interativo e Modular** com as seguintes funcionalidades principais:
+
+* 📊 **Personalização de Gráficos:**
+  Interface intuitiva com filtros dinâmicos e seleção do tipo de gráfico (barra, linha, pizza, etc.), permitindo ao usuário analisar dados de forma personalizada.
+
+* 🔒 **Sistema de Permissões:**
+  Controle de acessos baseado em perfis de usuário, assegurando que cada colaborador visualize apenas as informações relevantes ao seu papel.
+
+* 📤 **Exportação de Dados:**
+  Possibilidade de exportar gráficos e relatórios em diversos formatos (PDF, CSV, PNG), diretamente da interface do dashboard.
+
+* ⚙️ **Backend Estruturado com API REST:**
+  Conjunto de endpoints para criação, leitura, atualização e exclusão (CRUD) dos dados utilizados pelos dashboards, incluindo autenticação segura com JWT.
 
 ---
 
