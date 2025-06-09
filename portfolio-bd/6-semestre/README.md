@@ -12,7 +12,6 @@ A empresa enfrentava desafios no **planejamento estratégico e acompanhamento da
 * **Previsão de crescimento das árvores** com base em variáveis ambientais e operacionais;
 * **Estimativas de custo** associadas ao processo de reflorestamento;
 * **Organização e atualização diária de dados** da plantação por parte dos usuários;
-* **Conformidade com a LGPD**, exigindo o controle do consentimento do uso de dados dos usuários;
 * Necessidade de uma **ferramenta intuitiva, integrada e segura** para tomada de decisão no campo.
 
 ---
