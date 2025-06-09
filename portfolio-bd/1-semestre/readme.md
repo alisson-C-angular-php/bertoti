@@ -1,33 +1,56 @@
-# Projeto de Portal de Avaliação 360° - FATEC
+# 🎯 Projeto: Portal de Avaliação 360° – FATEC
 
-## 🏢 Empresa Parceira
-A empresa parceira escolhida para este projeto foi a **FATEC**.
+## 🏢 Empresa Parceira: FATEC
 
-## 📌 Problema
-O desafio envolveu a criação de um portal para **avaliação 360 graus**, no qual:
-- Cada usuário realiza uma autoavaliação.
-- Usuários avaliam os demais membros de sua equipe em **soft skills** preestabelecidas.
-- Líderes e POs são avaliados, respectivamente, pelo líder do grupo e pelo **Fake Client**.
-
-## 💡 Solução
-A solução desenvolvida proporcionou:
-- **Avaliação 360°** dos times.
-- Acompanhamento das notas dos usuários em um **dashboard interativo**, permitindo monitorar a evolução a cada sprint.
-- Funcionalidades para o administrador gerenciar:
-  - Usuários.
-  - Composição dos times.
-  - Fluxo das sprints.
+A **Faculdade de Tecnologia (FATEC)** foi a instituição parceira deste projeto, cuja proposta visava aprimorar o processo de avaliação comportamental e colaborativa entre membros de times de desenvolvimento ágil.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 📌 Desafio
 
-- **Python**: Backend para criação dos endpoints e implementação dos casos de uso.
-- **JavaScript**: Frontend para manipulação de dados e integração com a API.
-- **HTML/CSS**: Estilização e estruturação das telas, padrão no desenvolvimento web.
-- **FastAPI**: Framework do backend utilizado para criação rápida de APIs e validação automática de dados.
+O desafio consistiu na criação de um **portal de avaliação 360 graus**, com foco no desenvolvimento e acompanhamento de **soft skills** entre os participantes de projetos ágeis. As regras estabelecidas incluíram:
+
+* Cada usuário deve realizar uma **autoavaliação**.
+* Os usuários também avaliam **todos os demais membros de sua equipe**.
+* Avaliações são feitas com base em critérios predefinidos de **habilidades interpessoais (soft skills)**.
+* Líderes de equipe são avaliados pelo líder do grupo, enquanto os **Product Owners (POs)** são avaliados pelo **Fake Client** (cliente fictício designado).
 
 ---
+
+## 💡 Solução Desenvolvida
+
+Foi implementado um **portal web completo** para gerenciar e centralizar o processo de avaliação contínua durante os ciclos de sprint.
+
+### Principais Funcionalidades:
+
+* Avaliação 360° entre membros da equipe.
+* Painel interativo com **dashboard de desempenho** por sprint.
+* Acompanhamento da **evolução dos resultados** ao longo do tempo.
+* Funcionalidades administrativas para:
+
+  * Cadastro e gestão de usuários.
+  * Configuração e manutenção das equipes de trabalho.
+  * Definição do cronograma de sprints e liberação dos ciclos de avaliação.
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+* **Backend:**
+
+  * **Python** com **FastAPI** – Criação de endpoints RESTful, rotas protegidas, validação de dados com Pydantic e estruturação de regras de negócio.
+
+* **Frontend:**
+
+  * **JavaScript** – Manipulação do DOM e consumo da API.
+  * **HTML/CSS** – Estruturação visual e estilização responsiva das telas.
+
+* **Integração:**
+
+  * Comunicação assíncrona entre frontend e backend utilizando requisições HTTP via **fetch API**.
+
+---
+
 
 ## 👤 Contribuições Pessoais
 
