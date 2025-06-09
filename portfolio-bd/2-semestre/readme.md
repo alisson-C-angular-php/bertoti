@@ -252,50 +252,45 @@ Desenvolvimento de regra para pegar horas reprovadas no sistema
 }
 ```
 
-Como pode ser observado no código acima, a essência da funcionalidade de listagem reprovação de horas extras reside em uma busca no banco de dados, que ocorre assim que um evento de reprovação de horas é disparado.
- 
 
+## 🛠 Hard Skills
 
-**Hard Skills**
+| Tecnologia / Metodologia      | Nível de Proficiência      |
+| ----------------------------- | -------------------------- |
+| **SQL**                       | ★★★★★★★★☆☆☆ (Avançado)     |
+| **MySQL**                     | ★★★★★★★☆☆☆ (Intermediário) |
+| **SceneBuilder / HTML / CSS** | ★★★★★★★★☆☆☆ (Avançado)     |
+| **Java**                      | ★★★★★★★☆☆☆ (Intermediário) |
+| **Scrum**                     | ★★★★☆☆☆☆☆☆ (Básico)        |
 
-| Tecnologia/Metodologia   | Classificação |
-|--------------------------|---------------|
-| **SQL**                  | ★★★★★★★★☆☆☆  |
-| **MySQL**                | ★★★★★★★☆☆☆  |
-| **SceneBuilder/HTML/CSS**| ★★★★★★★★☆☆☆  |
-| **Java**                 | ★★★★★★★☆☆☆  |
-| **Scrum**                | ★★★★☆☆☆☆☆☆  |
+### 🔎 Justificativa das Hard Skills
 
-**Soft Skills**
-
-| Habilidade             | Classificação |
-|------------------------|---------------|
-| **Comunicação**        | ★★★★★★☆☆☆☆☆   |
-| **Trabalho em Equipe** | ★★★★★★★☆☆☆   |
-| **Resolução de Problemas** | ★★★★★★★★★☆   |
-| **Responsabilidade**   | ★★★★★★★☆☆☆   |
-
-
-
-
-### Justificativa para Hard Skills
-
-| Tecnologia/Metodologia     | Justificativa                                                                                               |
-|----------------------------|-----------------------------------------------------------------------------------------------------------|
-| **SQL**                    | Conhecimento sólido na manipulação de bases de dados, criação de consultas complexas e otimização de queries. Conhecimento esse aplicado na extração de informações para indicadores do processo. |
-| **MySQL**                  | Experiência prática na utilização deste SGBD, incluindo configuração, manipulação de tabelas e consultas.    |
-| **SceneBuilder/HTML/CSS**  | Boa proficiência em criar interfaces visuais utilizando SceneBuilder, com integração a HTML e CSS para estilização. |
-| **Java**                   | Experiência intermediária em desenvolvimento de aplicativos, com foco em projetos orientados a objetos.     |
-| **Scrum**                  | Familiaridade básica com a metodologia, participando de sprints e reuniões de planejamento.                 |
+| Tecnologia / Metodologia      | Justificativa                                                                                                 |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **SQL**                       | Experiência sólida em manipulação de dados, criação de views e queries complexas para geração de indicadores. |
+| **MySQL**                     | Aplicação prática do SGBD no projeto, com foco em performance, normalização e consistência dos dados.         |
+| **SceneBuilder / HTML / CSS** | Criação de interfaces funcionais e bem estruturadas, com atenção à experiência do usuário e responsividade.   |
+| **Java**                      | Desenvolvimento das funcionalidades principais do backend utilizando orientação a objetos.                    |
+| **Scrum**                     | Participação em reuniões de planejamento e revisão de sprint, com uso de artefatos como backlog e daily.      |
 
 ---
 
-### Justificativa para Soft Skills
+## 💡 Soft Skills
 
-| Habilidade             | Justificativa                                                                                              |
-|------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Habilidade moderada para expressar ideias, com espaço para melhorar a clareza e eficiência na transmissão. Habilidade aplicada no momento de  expressar ideias de como melhorar o sistema e em momentos onde precisave de auxilio para resolver determinados problemas.  |
-| **Trabalho em Equipe** | Boa capacidade de colaborar com times, contribuindo positivamente, mas com necessidade de maior prática em conflitos. Habilidade aplicada ao precisar aprender novas habilidades tecnicas e aprender com os membros do grupo |
-| **Resolução de Problemas** | Competência notável para identificar e resolver desafios técnicos e lógicos de maneira eficaz.              |
-| **Responsabilidade**   | Compromisso consistente com prazos e entrega de qualidade, mas com possibilidade de reforçar a autonomia em tarefas complexas. | 
+| Habilidade                 | Nível de Desenvolvimento |
+| -------------------------- | ------------------------ |
+| **Comunicação**            | ★★★★★★☆☆☆☆ (Moderado)    |
+| **Trabalho em Equipe**     | ★★★★★★★☆☆☆ (Bom)         |
+| **Resolução de Problemas** | ★★★★★★★★★☆ (Muito Bom)   |
+| **Responsabilidade**       | ★★★★★★★☆☆☆ (Bom)         |
 
+### 🔎 Justificativa das Soft Skills
+
+| Habilidade                 | Justificativa                                                                                                                        |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Comunicação**            | Atuei de forma clara ao expor ideias e dúvidas, principalmente ao sugerir melhorias e buscar ajuda para resolver problemas técnicos. |
+| **Trabalho em Equipe**     | Contribuí ativamente com o grupo, especialmente em momentos de aprendizado coletivo e colaboração técnica.                           |
+| **Resolução de Problemas** | Demonstrei eficiência na identificação e resolução de problemas técnicos, especialmente em SQL e integração com o backend.           |
+| **Responsabilidade**       | Entreguei todas as demandas sob minha responsabilidade dentro do prazo, com qualidade e comprometimento.                             |
+
+---
