@@ -486,59 +486,65 @@ Detalhes
 ![image](https://github.com/user-attachments/assets/ce8bc3ca-b563-4fed-a4dd-cd063cfb6332)
 
 
+---
 
-### Contribuições como scrum master
+## **Contribuições como Scrum Master**
 
-Como Scrum Master, fui responsável por organizar o processo de desenvolvimento ágil, gerenciando as sprints e garantindo que a equipe seguisse as práticas ágeis de forma eficiente. Entre minhas responsabilidades, incluí:
+Durante o desenvolvimento de um sistema web para gestão de tarefas acadêmicas, o cliente — um grupo de alunos e professores — buscava uma solução eficiente para organizar e acompanhar atividades, prazos e responsabilidades de forma colaborativa. O desafio principal era garantir a organização das entregas em um curto espaço de tempo, promovendo integração entre os membros e mantendo a qualidade das entregas, mesmo com diferentes níveis de experiência técnica na equipe.
 
-Planejamento e organização das sprints, assegurando que as entregas fossem realizadas dentro dos prazos estabelecidos.
-Documentação das tarefas no ClickUp, garantindo total visibilidade e acompanhamento do progresso da equipe.
-Elaboração do burndown chart das sprints, monitorando o progresso do trabalho e identificando quaisquer impedimentos ou desvios no plano de entrega.
+Como **Scrum Master**, atuei como facilitador do processo de desenvolvimento ágil, com foco em garantir que a equipe seguisse os princípios do **Scrum** de forma disciplinada e produtiva. Minhas principais contribuições envolveram:
 
-**Hard Skills**
+* **Planejamento e organização das sprints**, definindo claramente os objetivos de cada ciclo de entrega e promovendo reuniões de planejamento e review com o time.
+* **Documentação das tarefas no ClickUp**, o que proporcionou total visibilidade para todos os membros da equipe e permitiu que as atividades fossem monitoradas e atualizadas com clareza.
+* **Criação e análise de burndown charts**, que ajudaram a identificar gargalos e ajustar o ritmo de trabalho conforme necessário.
+* **Mediação de conflitos e facilitação da comunicação entre membros da equipe**, promovendo um ambiente de cooperação e responsabilidade mútua.
+* **Aplicação de cerimônias ágeis** (daily meetings, sprint planning e retrospectivas), aumentando a transparência e a capacidade de adaptação diante de mudanças de escopo.
 
-| Tecnologia/Metodologia  | Classificação |
-|-------------------------|---------------|
-| **SQL**                 | ★★★★★★☆☆☆☆☆  |
-| **MySQL**               | ★★★★☆☆☆☆☆☆  |
-| **HTML/CSS**            | ★★★★★★★☆☆☆  |
-| **Vue**                 | ★★★★★★★☆☆☆  |
-| **REST**                | ★★★★★★★☆☆☆  |
-| **Scrum**               | ★★★★★★★☆☆☆  |
-| **UX/UI Design**        | ★★★★★☆☆☆☆☆  |
-
-**Soft Skills**
-
-| Habilidade             | Classificação |
-|------------------------|---------------|
-| **Comunicação**        | ★★★★★★☆☆☆☆☆   |
-| **Trabalho em Equipe** | ★★★★☆☆☆☆☆☆   |
-| **Resolução de Problemas** | ★★★★★★★☆☆☆   |
-| **Responsabilidade**   | ★★★★★★☆☆☆☆☆   |
-
-
-
-
-
-### Justificativa para Hard Skills
-
-| Tecnologia/Metodologia | Justificativa                                                                                               |
-|-------------------------|-----------------------------------------------------------------------------------------------------------|
-| **SQL**                | Conhecimento intermediário, com habilidade para criar consultas, gerenciar tabelas e manipular dados de maneira eficaz. |
-| **MySQL**              | Familiaridade básica no uso desse banco de dados, com experiência em tarefas simples de administração e consultas. |
-| **HTML/CSS**           | Boa capacidade de criar layouts estruturados e estilizações consistentes para projetos web.                |
-| **Vue**                | Conhecimento intermediário no uso dessa framework, com habilidade para construir componentes e gerenciar estados. |
-| **REST**               | Experiência prática na implementação de APIs RESTful, com entendimento sólido de padrões e boas práticas.  |
-| **Scrum**              | Aplicação regular dos princípios de Scrum para organização e entrega de projetos, com entendimento de papéis e sprints. |
-| **UX/UI Design**       | Habilidade básica em criar interfaces amigáveis e acessíveis, com atenção ao feedback dos usuários.         |
+Essas atividades exigiram o uso efetivo de **hard skills**, como o domínio de ferramentas de gestão ágil, conhecimento de **metodologias ágeis (Scrum)**, e capacidade técnica para dialogar com desenvolvedores sobre **APIs REST**, **HTML/CSS**, e **Vue.js**. Paralelamente, foi essencial o uso de **soft skills**, especialmente **comunicação**, **trabalho em equipe**, **resolução de problemas** e **responsabilidade** para conduzir a equipe de forma colaborativa, focada em resultados.
 
 ---
 
-### Justificativa para Soft Skills
+## **Hard Skills**
 
-| Habilidade             | Justificativa                                                                                              |
-|------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Comunicação**        | Habilidade moderada para transmitir informações e ideias, com potencial para maior clareza e empatia.      |
-| **Trabalho em Equipe** | Participação ativa em projetos colaborativos, com necessidade de desenvolver melhor a gestão de conflitos.  |
-| **Resolução de Problemas** | Boa capacidade de analisar e solucionar desafios técnicos, buscando soluções criativas e práticas.           |
-| **Responsabilidade**   | Consistência no cumprimento de prazos e entrega de tarefas, com espaço para aprimorar a autonomia e proatividade. | 
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| **SQL**                | ★★★★★★☆☆☆☆☆   |
+| **MySQL**              | ★★★★☆☆☆☆☆☆    |
+| **HTML/CSS**           | ★★★★★★★☆☆☆    |
+| **Vue**                | ★★★★★★★☆☆☆    |
+| **REST**               | ★★★★★★★☆☆☆    |
+| **Scrum**              | ★★★★★★★☆☆☆    |
+| **UX/UI Design**       | ★★★★★☆☆☆☆☆    |
+
+### Justificativa
+
+| Tecnologia/Metodologia | Justificativa                                                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------------------------- |
+| **SQL/MySQL**          | Conhecimento funcional na criação de tabelas e execução de queries simples para apoio ao desenvolvimento. |
+| **HTML/CSS**           | Desenvolvimento de layouts para interfaces do sistema com foco em responsividade e usabilidade.           |
+| **Vue.js**             | Criação e gerenciamento de componentes dinâmicos e reativos da interface do sistema.                      |
+| **REST**               | Apoio na implementação e integração de endpoints RESTful no projeto.                                      |
+| **Scrum**              | Atuação direta como facilitador no uso da metodologia, aplicando práticas de planejamento e entrega ágil. |
+| **UX/UI Design**       | Criação de wireframes e ajustes de interface baseados no feedback dos usuários finais.                    |
+
+---
+
+## **Soft Skills**
+
+| Habilidade                 | Classificação |
+| -------------------------- | ------------- |
+| **Comunicação**            | ★★★★★★☆☆☆☆☆   |
+| **Trabalho em Equipe**     | ★★★★☆☆☆☆☆☆    |
+| **Resolução de Problemas** | ★★★★★★★☆☆☆    |
+| **Responsabilidade**       | ★★★★★★☆☆☆☆☆   |
+
+### Justificativa
+
+| Habilidade                 | Justificativa                                                                                              |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Comunicação**            | Facilitou a compreensão entre membros técnicos e não técnicos, essencial para manter todos alinhados.      |
+| **Trabalho em Equipe**     | Participação ativa em decisões do grupo, ajudando na integração entre membros com diferentes experiências. |
+| **Resolução de Problemas** | Condução de decisões rápidas durante imprevistos nas sprints, como replanejamento de tarefas prioritárias. |
+| **Responsabilidade**       | Garantia de que prazos e entregas fossem cumpridos, mantendo o comprometimento com a qualidade.            |
+
+---
