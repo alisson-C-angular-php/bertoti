@@ -63,7 +63,9 @@ Foi desenvolvido um **Dashboard Interativo e Modular** com as seguintes funciona
 
 ---
 
-## 👤 Contribuições Pessoais
+
+## 🙋 **Contribuições Pessoais Detalhadas**
+
 
 ---
 
