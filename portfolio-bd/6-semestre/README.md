@@ -516,6 +516,9 @@ async enviarDados() {
 ```
 
 
+
+
+
 ---
 
 ## 💻 **Hard Skills**
@@ -531,6 +534,26 @@ async enviarDados() {
 
 ---
 
+
+---
+
+## 💻 **Hard Skills – Justificativas**
+
+| Tecnologia / Metodologia | Justificativa                                                                                                                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Scrum**                | Participei de cerimônias ágeis como *daily*, *sprint review* e *planning*, contribuindo para entregas organizadas, embora ainda em evolução na facilitação de cerimônias. |
+| **PostgreSQL**           | Domínio avançado na modelagem de dados, criação de procedures, views e queries complexas em ambientes de produção.                                                        |
+| **Spring Boot (Java)**   | Desenvolvimento de APIs REST com segurança, integração com bancos de dados e uso de boas práticas do ecossistema Spring.                                                  |
+| **Angular / TypeScript** | Atuação em interfaces interativas com formulários reativos, consumo de APIs e aplicação de boas práticas no front-end.                                                    |
+| **MongoDB**              | Utilização para armazenamento não relacional e análise complementar de dados junto ao PostgreSQL, em projetos de monitoramento.                                           |
+| **LGPD (prática)**       | Aplicação prática dos princípios da LGPD em sistemas, como anonimização de dados e controle de consentimento de usuários.                                                 |
+
+
+
+---
+
+
+
 ## 🤝 **Soft Skills**
 
 | Competência                | Nível de Desenvolvimento (★) |
@@ -542,3 +565,21 @@ async enviarDados() {
 | **Resolução de problemas** | ★★★★★★★☆☆☆                   |
 
 ---
+
+
+
+---
+
+## 🤝 **Soft Skills – Justificativas**
+
+| Competência                | Justificativa                                                                                                                 |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Comunicação**            | Clareza na troca de informações com a equipe e stakeholders, facilitando entendimento técnico e alinhamento de expectativas.  |
+| **Responsabilidade**       | Cumprimento de prazos e comprometimento com a qualidade das entregas, com espaço para melhorar a autogestão sob alta demanda. |
+| **Organização**            | Estruturação lógica do código e uso de ferramentas de produtividade (como Trello e Git) para manter fluxos bem definidos.     |
+| **Trabalho em equipe**     | Colaboração constante com desenvolvedores, designers e PO's, contribuindo com sugestões e apoio técnico em grupo.             |
+| **Resolução de problemas** | Capacidade de analisar erros, realizar debug e propor soluções práticas tanto no back-end quanto no front-end.                |
+
+---
+
+
