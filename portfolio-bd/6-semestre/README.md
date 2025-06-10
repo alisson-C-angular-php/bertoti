@@ -1,12 +1,12 @@
+# 📊 Projeto de Indicadores Inteligentes para Análise de Dados - Kersys
+## 🏢 Empresa Parceira: Kersys
+
+
+A **Kersys** é uma empresa especializada em soluções inteligentes voltadas ao setor agroambiental, com foco na **gestão sustentável de reflorestamentos**. O cliente atua diretamente com produtores, consultores ambientais e órgãos reguladores, oferecendo ferramentas para  monitoramento, planejamento e conformidade ambiental**.
 
 
 
-### ✅ **Descrição das Atividades do Cliente**
-
-A **Kersys** é uma empresa especializada em soluções inteligentes voltadas ao setor **agroambiental**, com foco na **gestão sustentável de reflorestamentos**. O cliente atua diretamente com produtores, consultores ambientais e órgãos reguladores, oferecendo ferramentas para **monitoramento, planejamento e conformidade ambiental**.
----
-
-## 🔍 **Descrição do Problema Proposto**
+## ❗ Descrição do Problema Proposto
 
 A empresa enfrentava desafios no **planejamento estratégico e acompanhamento das áreas reflorestadas**, principalmente no que diz respeito a:
 
