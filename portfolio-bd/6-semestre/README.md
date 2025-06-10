@@ -275,7 +275,8 @@ export const routes: Routes = [
   </div>
 </ion-split-pane>
 ```
-Detalhes
+#### 🖥️ Interfaces
+
 
 ![image](https://github.com/user-attachments/assets/3d5ecf68-51f9-426b-884f-964ab0738ae6)
 
