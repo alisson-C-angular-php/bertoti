@@ -48,7 +48,7 @@ Além disso, também possuo experiência em bancos de dados, metodologias ágeis
 
 
 ### 2025 - Primeiro Semestre 
-- [Link para o README do Projeto 5º Semestre](https://github.com/api-6-pixel/api-doc)
+- [Link para o README do Projeto 6º Semestre](https://github.com/api-6-pixel/api-doc)
 
 
 
